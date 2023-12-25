@@ -5,6 +5,7 @@ uint8_t    GuB_PwrupdisFlg;
 uint8_t    GuB_DisStatus;//0:Auto display; 1:key:2:Inset user card;
                                            // 3:inset check card
 //modify 231225--01
+//modify 231225--02
 
 uint16_t GuW_Item;
 uint8_t    GuB_SubItem;
